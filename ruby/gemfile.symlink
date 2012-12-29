@@ -1,0 +1,7 @@
+source 'http://rubygems.org'
+
+gem 'wirble'
+gem 'hirb'
+gem 'rails'
+gem 'powder'
+gem 'paint'
