@@ -63,3 +63,5 @@ project](https://github.com/holman/dotfiles/) on his repository.
 
 I forked [Zach Holman](http://github.com/holman)'s excellent
 [dotfiles](http://github.com/holman/dotfiles) and tweaked for all my needs.
+
+[![Analytics](https://ga-beacon.appspot.com/UA-46850189-1/dotfiles/README.md)](https://github.com/igrigorik/ga-beacon)
